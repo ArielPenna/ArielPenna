@@ -21,6 +21,23 @@ Enthusiast Full Stack Developer, and Multimedia Designer that loves working on t
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
 
+##### Some of my latest works!
+
+##### Ecommerce "Mercado Negro"
+
+<img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce1.png"/>
+<img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce2.png"/>
+<img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce3.png"/>
+<img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce4.png"/>
+<img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce5.png"/>
+<img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce6.png"/>
+<img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce7.png"/>
+
+##### BankApp Me Virtual Bank
+
+<img src="https://github.com/ArielPenna/bankApp/blob/master/screenshots/bankapp.png?raw=true"/>
+
+
 <a href="https://wzs.com.ar/Ariel"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ArielPenna&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielPenna&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
 
 
