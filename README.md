@@ -1,12 +1,26 @@
 ![Hi 👋, I'm Ariel,Frontend developer 👨‍💻 from Argentina](https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/header.gif)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ArielPenna/ target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ariel Full Stack" height="28px" width="28px" />
+  </a>
+  <a href="mailto:arielpenna@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Ariel Full Stack" height="28px" width="28px" />
+  </a>
+  <a href="https://wa.me/5491135365490" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Ariel Full Stack" height="28px" width="28px" />
+  </a>                                                                                                                                                   
+</p>
+
 ##### Hi, I'm Ariel :)
 
 Enthusiast Full Stack Developer, and Multimedia Designer that loves working on the Front-End and colaborating with team members. 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arielpenna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ArielPenna/)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://wzs.com.ar/Ariel/)
+<p align="center">
+  <a href="https://wzs.com.ar/Ariel/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white" alt="Ariel Full Stack" />
+  </a>
+</p>
 
 ##### Languages and tecnologies I use
 
