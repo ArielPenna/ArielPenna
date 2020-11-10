@@ -33,7 +33,7 @@ Enthusiast Full Stack Developer, and Multimedia Designer that loves working on t
 <img src="https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/ecommerce.png"/>
 
 
-<a href="https://wzs.com.ar/Ariel"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ArielPenna&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielPenna&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
+<a href="https://wzs.com.ar/Ariel"><img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=ArielPenna&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielPenna&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
 
 
 ⭐️ From [ArielPenna](https://github.com/ArielPenna)
