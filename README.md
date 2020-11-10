@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/42047708/95804468-20a43100-0cd9-11eb-84cd-2dbd94a99e0f.gif)
+![Hi 👋, I'm Ariel,Frontend developer 👨‍💻 from Argentina](https://github.com/ArielPenna/PORTFOLIO/blob/master/screenshots/header.gif)
 
 ##### Hi, I'm Ariel :)
 
